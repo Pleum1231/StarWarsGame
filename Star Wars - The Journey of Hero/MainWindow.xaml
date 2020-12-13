@@ -1,0 +1,13 @@
+﻿<Window x:Class="Star_Wars___The_Journey_of_Hero.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Star_Wars___The_Journey_of_Hero"
+        mc:Ignorable="d"
+        Title="Star Wars - The Journey of Hero" Height="600" Width="800" Icon="Resource/Buttom Icon/icon.jpg" Topmost="True" ResizeMode="CanMinimize">
+    <Grid>
+        <Frame Content="Frame" Source="/Star Wars - The Journey of Hero;component/MainMenu.xaml" Width="800" Height="600" NavigationUIVisibility="Hidden"/>
+
+    </Grid>
+</Window>

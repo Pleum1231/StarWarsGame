@@ -1,0 +1,87 @@
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.exe.config
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.exe
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.pdb
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainMenu.g.cs
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainWindow.g.cs
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\App.g.cs
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_MarkupCompile.cache
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_MarkupCompile.lref
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainMenu.baml
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainWindow.baml
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.g.resources
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star_Wars___The_Journey_of_Hero.Properties.Resources.resources
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csproj.GenerateResource.cache
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csproj.CoreCompileInputs.cache
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.exe
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.pdb
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_Content.g.cs
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Click.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csprojAssemblyReference.cache
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Delete.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Select.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\EasyTheme.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\HardTheme.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\LossTheme.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\MainTheme.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\NormalTheme.wav
+C:\Users\Zeheart\source\repos\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\WinTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\EasyTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\HardTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\LossTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\MainTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\NormalTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\WinTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Click.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Delete.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Buttom Icon\Select.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.exe.config
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.exe
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Star Wars - The Journey of Hero.pdb
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainMenu.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainWindow.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\App.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_Content.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_MarkupCompile.cache
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero_MarkupCompile.lref
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainMenu.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\MainWindow.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.g.resources
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star_Wars___The_Journey_of_Hero.Properties.Resources.resources
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csproj.GenerateResource.cache
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csproj.CoreCompileInputs.cache
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.exe
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.pdb
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\SelectMode.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\SelectMode.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\B1\roger.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\forcesky-2.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\forcesky.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\giveyourself.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\haveunow.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\ifather.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\impressive.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\noooo.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Darth Vader\pointless.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Luke\careful.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Luke\fair.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Luke\no-2.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Luke\willnotturn.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\SoundEffact\B1 Attack.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\SoundEffact\crash.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\SoundEffact\Stormtrooper Attack.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\SoundEffact\swing-short-2.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\SoundEffact\swing-short.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Stromtrooper\backup.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Stromtrooper\holdit.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Stromtrooper\loadweapons.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\B1\ahhh.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\B1\surrender.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\bin\Debug\Resource\Background\Theme\ModeTheme.wav
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Easy.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Easy.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\App.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Normal.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Normal.baml
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Star Wars - The Journey of Hero.csprojAssemblyReference.cache
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Hard.g.cs
+D:\Star Wars - The Journey of Hero\Star Wars - The Journey of Hero\obj\Debug\Hard.baml
